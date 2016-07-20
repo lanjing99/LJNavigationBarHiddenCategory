@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LJNavigationBarHiddenCategory_Example' do
+  pod 'LJNavigationBarHiddenCategory', :path => '../'
+
+  target 'LJNavigationBarHiddenCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

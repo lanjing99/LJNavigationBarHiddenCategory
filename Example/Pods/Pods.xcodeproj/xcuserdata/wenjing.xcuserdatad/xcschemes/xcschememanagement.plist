@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LJNavigationBarHiddenCategory.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-LJNavigationBarHiddenCategory_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-LJNavigationBarHiddenCategory_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>832655C44D5F6C35123212048AD77A71</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>95FA48F2196CD8220A6DE8502FAE85C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0D4AE9D6716B1B645E77F2E7E70D393</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

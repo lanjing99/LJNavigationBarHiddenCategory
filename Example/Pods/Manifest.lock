@@ -1,0 +1,16 @@
+PODS:
+  - LJNavigationBarHiddenCategory (0.1.0)
+
+DEPENDENCIES:
+  - LJNavigationBarHiddenCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LJNavigationBarHiddenCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LJNavigationBarHiddenCategory: 7674abfa43a514eec53ff17b8d140a54fd25177c
+
+PODFILE CHECKSUM: a20e5057fde94c9f6d6a1a73e2904cd74836ffbc
+
+COCOAPODS: 1.0.1
